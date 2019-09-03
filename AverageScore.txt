@@ -1,0 +1,14 @@
+Declare Integer exam_score
+Declare Integer Sum
+Declare Integer Avg
+
+Prompt user for exam_score (for ten times)
+.
+.
+.
+.
+Get 10 exam_scores
+Calculate Sum of 10 scores
+Get Sum
+Calculate Average = Sum /10
+Display Average
