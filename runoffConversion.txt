@@ -1,0 +1,11 @@
+Declare float runoff
+Declare float inch
+Declare float gallon
+
+
+Prompt user for runoff value
+Convert the value to inch value
+Get inch
+Divide the inches by 231
+Get gallon
+Display gallon
