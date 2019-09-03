@@ -1,10 +1,12 @@
-Declare float runoff
+Declare float roofLength
+Declare float roofWidth
+Declare float rainheight
 Declare float inch
 Declare float gallon
 
 
-Prompt user for runoff value
-Convert the value to inch value
+Prompt user for roofLength, roofWidth and rainheight value
+Convert the above values to inch value
 Get inch
 Divide the inches by 231
 Get gallon
